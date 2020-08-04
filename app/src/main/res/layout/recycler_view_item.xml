@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/channelImage"
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        app:civ_border_color="@color/colorPrimaryDark"
+        app:civ_border_width="2dp"/>
+
+    <TextView
+        android:id="@+id/channelName"
+        android:layout_width="78dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="83dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorAccent" />
+
+</RelativeLayout>

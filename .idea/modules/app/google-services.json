@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871835185503",
+    "firebase_url": "https://my-tv-2ae10.firebaseio.com",
+    "project_id": "my-tv-2ae10",
+    "storage_bucket": "my-tv-2ae10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871835185503:android:5b137563362d30228086ea",
+        "android_client_info": {
+          "package_name": "com.wordpress.myselfnikunj.mytv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871835185503-ltovb4ld3bsp5dgrf1j8ftv44i92ur50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.myselfnikunj.mytv",
+            "certificate_hash": "0c64d88b010407febdc20ad1005aa16d3cb6240f"
+          }
+        },
+        {
+          "client_id": "871835185503-6qa416758dgck8ivtsgnp0d14ldqkcl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMCHGamsrbfvD64Git_mFc18i3_BpyzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871835185503-6qa416758dgck8ivtsgnp0d14ldqkcl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
